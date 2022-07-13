@@ -1,0 +1,9 @@
+Q1: 0 / 10 passed | score: 0
+Q2: 0 / 3 passed | score: 0
+Q4: 0 / 16 passed | score: 0.0
+Q5: 0 / 11 passed | score: 0
+Q6: 0 / 19 passed | score: 0
+-----------------------------------------
+Your total score of coding section: 0.0
+-----------------------------------------
+Thu Jun 30 16:03:38 PDT 2022
